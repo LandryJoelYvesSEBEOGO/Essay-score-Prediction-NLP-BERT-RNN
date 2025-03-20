@@ -1,5 +1,5 @@
 # Essay Score Prediction with Deep Learning
-
+<img src="rapport PLBD.pdf" alt="Texte alternatif" width="1000">
 ## Project Description
 This project aims to develop a deep learning model capable of predicting essay scores based on teacher annotations. It leverages Natural Language Processing (NLP) techniques to extract text features and trains a regression model using a Bidirectional Gated Recurrent Unit (Bi-GRU) network.
 ![model output](https://github.com/LandryJoelYvesSEBEOGO/Essay-score-Prediction-NLP-BERT-RNN/blob/main/output.png)
