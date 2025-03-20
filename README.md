@@ -3,6 +3,7 @@
 ## Project Description
 This project aims to develop a deep learning model capable of predicting essay scores based on teacher annotations. It leverages Natural Language Processing (NLP) techniques to extract text features and trains a regression model using a Bidirectional Gated Recurrent Unit (Bi-GRU) network.
 <img src="output.png" alt="Texte alternatif" width="1000">
+
 ## Key Features
 - **Text Preprocessing**: Essay cleaning, stopword removal, and lemmatization.
 - **Feature Extraction**: Utilizing BERT to generate sentence embeddings.
