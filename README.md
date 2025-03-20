@@ -1,5 +1,6 @@
 # Essay Score Prediction with Deep Learning
 <img src="Architecture Diagram Example - Multiplayer (Community) (6).jpg" alt="Texte alternatif" width="1000">
+
 ## Project Description
 This project aims to develop a deep learning model capable of predicting essay scores based on teacher annotations. It leverages Natural Language Processing (NLP) techniques to extract text features and trains a regression model using a Bidirectional Gated Recurrent Unit (Bi-GRU) network.
 <img src="output.png" alt="Texte alternatif" width="1000">
